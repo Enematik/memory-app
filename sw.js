@@ -1,4 +1,4 @@
-var CACHE = "memory-v6";
+var CACHE = "memory-v7";
 var ASSETS = ["./", "./index.html", "./manifest.webmanifest",
              "./icon-180.png", "./icon-512.png"];
 
